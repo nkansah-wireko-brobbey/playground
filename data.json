@@ -1,0 +1,45 @@
+[
+    {
+        "total":14,
+        "bins":[
+            {
+                "SK-1":{
+                    "capacity":23,
+                    "space-left":4
+                }
+            },
+            {
+                "SK-2":{
+                    "capacity":30,
+                    "space-left":4
+                }
+            },
+            {
+
+                "SK-3":{
+                    "capacity":20,
+                    "space-left":8
+                }
+            },
+            {
+                "SK-4":{
+                    "capacity":23,
+                    "space-left":4
+                }
+            },
+            {
+                "SK-5":{
+                    "capacity":30,
+                    "space-left":14
+                }
+            },
+            {
+
+                "SK-7":{
+                    "capacity":20,
+                    "space-left":16
+                }
+            }
+        ]
+    }
+]
